@@ -1,1 +1,3 @@
-# Store-Robux-Spent-Data-in-the-Server
+# How to use?
+
+Ilagay ang script sa Explorer > ServerScriptService
